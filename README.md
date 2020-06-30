@@ -1,4 +1,4 @@
-#### End to End Diabetes Prediction Machine Learning MINI Project  
+#### End to End Diabetes Prediction Application using Machine Learning (MINI Project)  
 
 
 
