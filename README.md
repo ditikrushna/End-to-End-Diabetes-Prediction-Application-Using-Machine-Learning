@@ -43,3 +43,5 @@ The following points were the objective of the project . If you are looking for 
 - Building and hosting a Flask web app on Heroku. 
 - A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc . 
 - Once it get all the fields information , the prediction is displyed on a new page . 
+### Technologies Used : 
+![](https://forthebadge.com/images/badges/made-with-python.svg) 
