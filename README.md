@@ -1,6 +1,23 @@
 #### End-to-End Diabetes Prediction Application using Machine Learning (MINI Project)  
 
 
+### Table of Content
+  * [Overview](#overview)
+  * [Motivation](#motivation)
+  * [Demo](#demo)
+  * [Technical Aspect](#technical-aspect)
+  * [Technologies Used](#technologies-used)
+  * [To Do](#to-do)
+  * [Installation](#installation)
+  * [Run](#run)
+  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Directory Tree](#directory-tree)
+  * [Bug / Feature Request](#bug---feature-request)
+  * [Team](#team)
+  * [License](#license)
+  * [Credits](#credits)
+
+
 
 
 
