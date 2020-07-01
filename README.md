@@ -65,9 +65,9 @@ The following points were the objective of the project . If you are looking for 
 [Ditikrushan Giri](https://ditikrushna.me/) |)
 
 ### License : 
-![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
+![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)
 
-Copyright 2020 Rohit Swami
+Copyright 2020 Ditikrushna Giri 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
