@@ -48,3 +48,14 @@ The following points were the objective of the project . If you are looking for 
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 
+
+
+
+
+### Installation : 
+- Clone this repository and unzip it.
+- After downloading, cd into the flask directory.
+- Begin a new virtual environment with Python 3 and activate it.
+- Install the required packages using pip install -r requirements.txt
+- Execute the command: python app.py
+
