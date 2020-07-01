@@ -59,3 +59,7 @@ The following points were the objective of the project . If you are looking for 
 - Install the required packages using pip install -r requirements.txt
 - Execute the command: python app.py
 
+### Team : 
+[![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
+-|
+[Ditikrushan Giri](https://ditikrushna.me/) |)
