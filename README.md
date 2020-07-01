@@ -46,4 +46,5 @@ The following points were the objective of the project . If you are looking for 
 ### Technologies Used : 
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo.png">](https://www.python.org/)[<img target="_blank" src="https://img.icons8.com/color/50/000000/c-programming.png">](https://g.co/kgs/BBfKSwa) [<img target="_blank" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png">](https://g.co/kgs/eV8ura) [<img target="_blank" src="https://img.icons8.com/dusk/50/000000/sql.png">](https://g.co/kgs/nDjK1x) [<img target="_blank"  src="https://img.icons8.com/nolan/50/html-5.png">](https://g.co/kgs/D5gqdX)[<img target="_blank"  src="https://img.icons8.com/dusk/50/000000/css3.png"/>](https://g.co/kgs/BFjY8m) [<img target="_blank"  src="https://img.icons8.com/dusk/50/000000/javascript.png"/>](https://g.co/kgs/BFjY8m)[<img target="_blank"  src="https://img.icons8.com/dusk/50/000000/markdown.png"/>](https://g.co/kgs/djVDb6) 
+[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
+
