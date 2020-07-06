@@ -46,8 +46,8 @@ The following points were the objective of the project . If you are looking for 
 ### Technologies Used : 
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
-
+[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png"width=170>](https://github.com/scikit-learn/)
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>]
 
 
 
