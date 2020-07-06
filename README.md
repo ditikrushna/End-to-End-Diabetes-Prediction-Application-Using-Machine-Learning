@@ -25,7 +25,7 @@ In this project, the objective is to predict whether the person has Diabetes or 
 The motivation was to experiment  with end to end machine learning project and get some idea about deployment platform like [Heroku](https://g.co/kgs/yvsR77) and offcourse this "
 Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not." 
 
-### Overview 
+### Demo
 [Visit this link for live demo](https://mldiabete.herokuapp.com/)
 
 ### Learning Objective
