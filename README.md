@@ -82,3 +82,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
 - Icons by [Icons8](https://icons8.com/)
 
+### Note:
+- Webapp can handle concurrency upto some extent but can be scaled.
+
