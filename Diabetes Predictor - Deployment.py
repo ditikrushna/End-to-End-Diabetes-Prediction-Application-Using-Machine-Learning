@@ -31,6 +31,12 @@ from sklearn.ensemble import RandomForestClassifier
 classifier = RandomForestClassifier(n_estimators=20)
 classifier.fit(X_train, y_train)
 
+from sklearn.metrics import accuracy_score
+prediction = classifier.predict(X_test)
+model_performance = accuracy_score(Y_test, prediction)
+
+print("Accuracy of the model : ",model_performance*100)
+
 # Creating a pickle file for the classifier
 filename = 'diabetes-prediction-rfc-model.pkl'
 pickle.dump(classifier, open(filename, 'wb'))
